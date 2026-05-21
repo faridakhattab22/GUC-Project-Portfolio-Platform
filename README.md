@@ -1,23 +1,122 @@
-# React + Vite
+# GUC Project Portfolio Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web platform designed for GUC students to showcase academic projects, collaborate with teammates, and connect with recruiters through structured project portfolios.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+This project was developed as part of the Software Engineering course at the German University in Cairo (GUC).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The platform acts as a centralized space where students can:
 
-## Expanding the ESLint configuration
+- Showcase course and bachelor projects
+- Add collaborators and instructors
+- Share GitHub repositories and live demos
+- Upload project documentation and theses
+- Explore other student projects
+- Connect with recruiters and employers
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The system focuses on improving project visibility, collaboration, and academic presentation.
 
-## Agent Instructions & Rules
+---
 
-**IMPORTANT RULE FOR ALL CONTRIBUTORS & AUTOMATED AGENTS:**
-> For any future change to this codebase, if it is significant enough (e.g., structural changes, new major features, architectural decisions, or new dependencies), you **MUST** add documentation of the change to this `README.md` file.
+## Features
 
-"# SE_Draft" 
+### Authentication & User Management
+- User registration and login
+- Student portfolio creation
+- Profile management
+
+### Project Management
+- Create and manage projects
+- Add collaborators and instructors
+- Upload project details and documentation
+- Feedback and review workflow
+- Notifications system
+
+### Discovery & Exploration
+- Browse public student projects
+- Search and filter portfolios
+- Explore projects by course or category
+- View demos, GitHub repositories, and thesis files
+
+### Recruiter Interaction
+- Discover student talent
+- Browse structured portfolios
+- Contact students directly through the platform
+
+---
+
+## Technologies Used
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### UI/UX
+- Responsive design
+- Modern component-based architecture
+- User-centered interface design
+
+---
+
+## Project Goals
+
+The platform aims to:
+- Centralize student academic work
+- Improve project discoverability
+- Encourage collaboration
+- Help students build professional portfolios
+- Allow recruiters to discover student talent easily
+
+---
+
+## User Roles
+
+The system supports multiple stakeholders:
+
+- Students
+- Collaborators
+- Course Instructors
+- Recruiters
+- Administrators
+
+---
+
+## Project Modules
+
+### 1. Authentication & User Management
+Handles user accounts, login, registration, and portfolio management.
+
+### 2. Project Management
+Supports project creation, collaborator assignment, feedback workflows, and notifications.
+
+### 3. Discovery & Exploration
+Allows searching, filtering, and browsing portfolios and projects.
+
+---
+
+## Future Improvements
+
+- Backend integration
+- Database support
+- Real-time collaboration
+- Chat and messaging system
+- AI-based project recommendations
+- Deployment support
+- Advanced recruiter dashboard
+
+---
+
+## Course Information
+
+Software Engineering — German University in Cairo (GUC)
+
+---
+
+## License
+
+This project was developed for educational purposes as part of a university Software Engineering course.
